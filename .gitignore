@@ -1,0 +1,10 @@
+node_modules/
+dist/
+server/.env
+client/.env
+.env
+.env.*
+_ref/
+*.log
+.DS_Store
+sse_capture.txt
